@@ -1,4 +1,4 @@
-## CarolineGPT A 0.5 — Model Definition
+## CarolineGPT A — Model Definition
 
 This repository contains the model definition and configuration for CarolineGPT A 0.5 — a transformer-based language model designed for ultra-long context processing, scalable training, and efficient adaptation.
 
